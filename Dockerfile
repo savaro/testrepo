@@ -1,4 +1,4 @@
 FROM ubuntu:14.04
-MAINTAINER arrow huangjing@mathildetech.com
+MAINTAINER arrow huangjing@alauda.io
 ENTRYPOINT echo date 
 CMD ['/bin/bash']
